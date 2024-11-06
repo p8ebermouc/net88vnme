@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Net88 - Thương Hiệu Cá Cược Hàng Đầu Toàn Cầu
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Net88 <https://net88vn.me/>`_ thương hiệu cá cược hàng đầu, thuộc sở hữu của Cube Limited, được đông đảo người chơi yêu thích. Được cấp phép và quy định bởi Isle of Man Gambling Supervision Commission từ ngày 31/08/2007 (với lần cấp lại gần nhất vào 31/08/2022), Net88 đã khẳng định vị thế của mình và thu hút nhiều người chơi tin tưởng và tham gia. Với nhiều sản phẩm chất lượng cao và dịch vụ hỗ trợ hoàn hảo, Net88 đã trở thành điểm đến lý tưởng cho những người chơi đam mê cá cược trên toàn cầu.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 78N1 Tổ 29 KP3, Hiệp Thành, Quận 12, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0886005487. 
 
-Contents
---------
+Email: info@net88vn.me. 
 
-.. toctree::
+Website: https://net88vn.me/
 
-   usage
-   api
+#net88 #trangchunet88 #dangkynet88 #dangnhapnet88 #linknet88
